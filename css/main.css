@@ -1545,6 +1545,9 @@ header .logo a {
 	margin-bottom: 2.4rem;
 }
 
+.text-highlight {
+	color: #ed254d;
+}
 /* ------------------------------------------------------------------- 
  * responsive:
  * features
@@ -2510,6 +2513,12 @@ footer a:active {
 
 .footer-info .footer-link-list li {
 	padding: 0;
+}
+
+.footer-info p,
+.footer-info a,
+.footer-info .footer-link-list a {
+	color: #fff;
 }
 
 .copyright span {
